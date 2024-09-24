@@ -1,0 +1,9 @@
+﻿namespace ChatApplication
+{
+	internal class Program
+	{
+		static void Main(string[] args)
+		{
+		}
+	}
+}

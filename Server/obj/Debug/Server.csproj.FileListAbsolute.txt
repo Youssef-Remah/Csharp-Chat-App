@@ -1,0 +1,10 @@
+D:\C#_Projects\ChatApplication\Server\bin\Debug\Server.exe.config
+D:\C#_Projects\ChatApplication\Server\bin\Debug\Server.exe
+D:\C#_Projects\ChatApplication\Server\bin\Debug\Server.pdb
+D:\C#_Projects\ChatApplication\Server\bin\Debug\ChatStream.dll
+D:\C#_Projects\ChatApplication\Server\bin\Debug\ChatStream.pdb
+D:\C#_Projects\ChatApplication\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\C#_Projects\ChatApplication\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\C#_Projects\ChatApplication\Server\obj\Debug\Server.csproj.Up2Date
+D:\C#_Projects\ChatApplication\Server\obj\Debug\Server.exe
+D:\C#_Projects\ChatApplication\Server\obj\Debug\Server.pdb

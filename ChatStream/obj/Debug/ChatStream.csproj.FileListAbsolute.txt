@@ -1,0 +1,6 @@
+D:\C#_Projects\ChatApplication\ChatStream\bin\Debug\ChatStream.dll
+D:\C#_Projects\ChatApplication\ChatStream\bin\Debug\ChatStream.pdb
+D:\C#_Projects\ChatApplication\ChatStream\obj\Debug\ChatStream.csproj.AssemblyReference.cache
+D:\C#_Projects\ChatApplication\ChatStream\obj\Debug\ChatStream.csproj.CoreCompileInputs.cache
+D:\C#_Projects\ChatApplication\ChatStream\obj\Debug\ChatStream.dll
+D:\C#_Projects\ChatApplication\ChatStream\obj\Debug\ChatStream.pdb

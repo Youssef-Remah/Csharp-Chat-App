@@ -1,0 +1,7 @@
+D:\C#_Projects\ChatApplication\ChatApplication\bin\Debug\ChatApplication.exe.config
+D:\C#_Projects\ChatApplication\ChatApplication\bin\Debug\ChatApplication.exe
+D:\C#_Projects\ChatApplication\ChatApplication\bin\Debug\ChatApplication.pdb
+D:\C#_Projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.csproj.AssemblyReference.cache
+D:\C#_Projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.csproj.CoreCompileInputs.cache
+D:\C#_Projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.exe
+D:\C#_Projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.pdb
